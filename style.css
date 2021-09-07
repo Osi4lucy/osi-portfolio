@@ -692,7 +692,14 @@ footer span a:hover {
 } 
 		@media (max-width: 480px) {
 	body {
-		background-image: url(images/portfolio-bg.png);
+		background-image: url(images/folio.png);
+		
+	}
+	.home .home-content .text-2 {
+		font-size: 40px;
+	}
+	.home .home-content .text-3 {
+		font-size: 25px;
 	}
 }
 
